@@ -27,7 +27,7 @@ global.APIKeys = {
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
 global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namaowner = 'GuaUwii'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
