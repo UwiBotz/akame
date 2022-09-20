@@ -120,7 +120,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
             var ucapanWaktu = '𝑺𝒆𝒍𝒂𝒎𝒂𝒕 𝑻𝒆𝒏𝒈𝒂𝒉 𝑴𝒂𝒍𝒂𝒎 🌃'
         }
 
-        //Time Menuju Ulang Tahun Untuk GuaAbuzz :)
+        //Time Menuju Ulang Tahun Untuk GuaUwii :)
         const HBD = new Date('July 17, 2023 06:00:00').getTime();
         const sekarang = new Date().getTime();
         const Selisih = HBD - sekarang;
