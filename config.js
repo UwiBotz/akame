@@ -36,7 +36,7 @@ global.premium = ['6281261632688']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6282171978174']
+global.telkomsel = ['6281261632688']
 global.xl = ['-']
 global.indosat = ['-']
 global.tri = ['-']
@@ -44,12 +44,12 @@ global.smartfren = ['-']
 global.gopay = ['6281261632688']
 global.dana = ['6281261632688']
 global.ovo = ['-']
-global.saweria = ['https://saweria.co/GuaAbuzz']
+global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
 global.github = 'https://github.com/UwiBotz'
-global.myweb = 'https://tiktok.com/@punyasiehem'
+global.myweb = 'https://tiktok.com/@uwipunyasiehem'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
