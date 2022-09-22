@@ -1754,6 +1754,45 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
                 })
             }
             break
+		case 'tiktok1':
+
+			case 'tt1':
+
+			case 'ttt':
+
+			    if (!text) return m.reply('masukkan link nya')
+
+				let p = await fdl.downloader.tiktok(q)
+
+				let nih = `*[ 👤 ] UPLOAD :* ${p.author}`
+
+				let buttons = [
+
+                    {buttonId: `tiktokmp3 ${text}`, buttonText: {displayText: 'AUDIO'}, type: 1}
+
+                ]
+
+                let buttonMessage = {
+
+                    video: { url: p.nowm },
+
+                    caption: nih,
+
+                    title: 'TIKTOK DOWNLOADER',
+
+                    footer: '',
+
+                    buttons: buttons,
+
+                    headerType: 5
+
+                }
+
+                conn.sendMessage(from, buttonMessage, { quoted: m })
+
+            
+
+			    break
             case 'tagmenu': {
 			 let tagg = [
                 {
